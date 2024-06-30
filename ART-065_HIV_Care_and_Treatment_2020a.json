@@ -1,0 +1,3321 @@
+{
+    "orgUnit": "y1Zt8YWUdNN",
+    "reports": {
+        
+        
+        "HIV Care - New and Current Number of Persons Enrolled on Pre-ART": {
+                  "dataValues":[
+                          {
+                          "categoryOptionCombo": "gIRokZTOVff",
+                          "dataElement": "VvPljTKf5rf",
+                          "row": 1,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "gIRokZTOVff",
+                          "dataElement": "QYsfFBZx0iv",
+                          "row": 2,
+                          "column": 2
+                          },
+                          
+                          
+                           {
+                          "categoryOptionCombo": "WBH8uUpt9Pj",
+                          "dataElement": "VvPljTKf5rf",
+                          "row": 1,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "WBH8uUpt9Pj",
+                          "dataElement": "QYsfFBZx0iv",
+                          "row": 2,
+                          "column": 3
+                          },
+                          
+                          
+                           {
+                          "categoryOptionCombo": "z12EITtQb34",
+                          "dataElement": "VvPljTKf5rf",
+                          "row": 1,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "z12EITtQb34",
+                          "dataElement": "QYsfFBZx0iv",
+                          "row": 2,
+                          "column": 4
+                          },
+                          
+                          
+                           {
+                          "categoryOptionCombo": "iEFWXqdhqg9",
+                          "dataElement": "VvPljTKf5rf",
+                          "row": 1,
+                          "column": 5
+                          },
+                           {
+                          "categoryOptionCombo": "iEFWXqdhqg9",
+                          "dataElement": "QYsfFBZx0iv",
+                          "row": 2,
+                          "column": 5
+                          }
+                  ]
+          },
+          
+          
+          
+          "ART Care - New and Current Number of Persons Started on ART": {
+                  "dataValues":[
+                          {
+                          "categoryOptionCombo": "CNcWYqvwPOl",
+                          "dataElement": "BEMK0jQHPBN",
+                          "row": 1,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "tcIRY6sRUwu",
+                          "dataElement": "BEMK0jQHPBN",
+                          "row": 2,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "RoJqHI8Mez4",
+                          "dataElement": "BEMK0jQHPBN",
+                          "row": 3,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "DV6o34zpIjv",
+                          "dataElement": "BEMK0jQHPBN",
+                          "row": 4,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "vfLYjpOKUf6",
+                          "dataElement": "BEMK0jQHPBN",
+                          "row": 5,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "oiMr7kc4xQ4",
+                          "dataElement": "BEMK0jQHPBN",
+                          "row": 6,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "C6m6OCR7m6G",
+                          "dataElement": "BEMK0jQHPBN",
+                          "row": 7,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "drpUCVywbI0",
+                          "dataElement": "BEMK0jQHPBN",
+                          "row": 8,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "TnfsTY77mJy",
+                          "dataElement": "BEMK0jQHPBN",
+                          "row": 9,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "RJSlhFTTNXI",
+                          "dataElement": "BEMK0jQHPBN",
+                          "row": 10,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "Yg1cxATwSlO",
+                          "dataElement": "BEMK0jQHPBN",
+                          "row": 11,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "mbz798qghl6",
+                          "dataElement": "BEMK0jQHPBN",
+                          "row": 12,
+                          "column": 2
+                          },
+                          
+                          
+                          {
+                          "categoryOptionCombo": "kUdV8RvgV5s",
+                          "dataElement": "BEMK0jQHPBN",
+                          "row": 1,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "K5vi0FouUhk",
+                          "dataElement": "BEMK0jQHPBN",
+                          "row": 2,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "Q4Firnf3ijf",
+                          "dataElement": "BEMK0jQHPBN",
+                          "row": 3,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "H6gRO6Fk2z5",
+                          "dataElement": "BEMK0jQHPBN",
+                          "row": 4,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "I06844kpruj",
+                          "dataElement": "BEMK0jQHPBN",
+                          "row": 5,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "dnENZnNWDsn",
+                          "dataElement": "BEMK0jQHPBN",
+                          "row": 6,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "dOp6s9tOpaQ",
+                          "dataElement": "BEMK0jQHPBN",
+                          "row": 7,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "hDYiOpgnUmE",
+                          "dataElement": "BEMK0jQHPBN",
+                          "row": 8,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "EAbeHR61ft1",
+                          "dataElement": "BEMK0jQHPBN",
+                          "row": 9,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "nQrR1Zgq2gr",
+                          "dataElement": "BEMK0jQHPBN",
+                          "row": 10,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "NTCqCfaP80J",
+                          "dataElement": "BEMK0jQHPBN",
+                          "row": 11,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "yXvU2aw5wyC",
+                          "dataElement": "BEMK0jQHPBN",
+                          "row": 12,
+                          "column": 3
+                          },
+                          
+                          
+                          {
+                          "categoryOptionCombo": "CNcWYqvwPOl",
+                          "dataElement": "uo9PCnvIUPN",
+                          "row": 1,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "tcIRY6sRUwu",
+                          "dataElement": "uo9PCnvIUPN",
+                          "row": 2,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "RoJqHI8Mez4",
+                          "dataElement": "uo9PCnvIUPN",
+                          "row": 3,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "DV6o34zpIjv",
+                          "dataElement": "uo9PCnvIUPN",
+                          "row": 4,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "vfLYjpOKUf6",
+                          "dataElement": "uo9PCnvIUPN",
+                          "row": 5,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "oiMr7kc4xQ4",
+                          "dataElement": "uo9PCnvIUPN",
+                          "row": 6,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "C6m6OCR7m6G",
+                          "dataElement": "uo9PCnvIUPN",
+                          "row": 7,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "drpUCVywbI0",
+                          "dataElement": "uo9PCnvIUPN",
+                          "row": 8,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "TnfsTY77mJy",
+                          "dataElement": "uo9PCnvIUPN",
+                          "row": 9,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "RJSlhFTTNXI",
+                          "dataElement": "uo9PCnvIUPN",
+                          "row": 10,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "Yg1cxATwSlO",
+                          "dataElement": "uo9PCnvIUPN",
+                          "row": 11,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "mbz798qghl6",
+                          "dataElement": "uo9PCnvIUPN",
+                          "row": 12,
+                          "column": 4
+                          },
+                          
+                          
+                          {
+                          "categoryOptionCombo": "kUdV8RvgV5s",
+                          "dataElement": "uo9PCnvIUPN",
+                          "row": 1,
+                          "column": 5
+                          },
+                           {
+                          "categoryOptionCombo": "K5vi0FouUhk",
+                          "dataElement": "uo9PCnvIUPN",
+                          "row": 2,
+                          "column": 5
+                          },
+                           {
+                          "categoryOptionCombo": "Q4Firnf3ijf",
+                          "dataElement": "uo9PCnvIUPN",
+                          "row": 3,
+                          "column": 5
+                          },
+                           {
+                          "categoryOptionCombo": "H6gRO6Fk2z5",
+                          "dataElement": "uo9PCnvIUPN",
+                          "row": 4,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "I06844kpruj",
+                          "dataElement": "uo9PCnvIUPN",
+                          "row": 5,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "dnENZnNWDsn",
+                          "dataElement": "uo9PCnvIUPN",
+                          "row": 6,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "dOp6s9tOpaQ",
+                          "dataElement": "uo9PCnvIUPN",
+                          "row": 7,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "hDYiOpgnUmE",
+                          "dataElement": "uo9PCnvIUPN",
+                          "row": 8,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "EAbeHR61ft1",
+                          "dataElement": "uo9PCnvIUPN",
+                          "row": 9,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "nQrR1Zgq2gr",
+                          "dataElement": "uo9PCnvIUPN",
+                          "row": 10,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "NTCqCfaP80J",
+                          "dataElement": "uo9PCnvIUPN",
+                          "row": 11,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "yXvU2aw5wyC",
+                          "dataElement": "uo9PCnvIUPN",
+                          "row": 12,
+                          "column": 5
+                          },
+                          
+                          {
+                          "categoryOptionCombo": "CNcWYqvwPOl",
+                          "dataElement": "emsyqv9XjW3",
+                          "row": 1,
+                          "column": 6
+                          },
+                           {
+                          "categoryOptionCombo": "tcIRY6sRUwu",
+                          "dataElement": "emsyqv9XjW3",
+                          "row": 2,
+                          "column": 6
+                          },
+                           {
+                          "categoryOptionCombo": "RoJqHI8Mez4",
+                          "dataElement": "emsyqv9XjW3",
+                          "row": 3,
+                          "column": 6
+                          },
+                           {
+                          "categoryOptionCombo": "DV6o34zpIjv",
+                          "dataElement": "emsyqv9XjW3",
+                          "row": 4,
+                          "column": 6
+                          },
+                          {
+                          "categoryOptionCombo": "vfLYjpOKUf6",
+                          "dataElement": "emsyqv9XjW3",
+                          "row": 5,
+                          "column": 6
+                          },
+                           {
+                          "categoryOptionCombo": "oiMr7kc4xQ4",
+                          "dataElement": "emsyqv9XjW3",
+                          "row": 6,
+                          "column": 6
+                          },
+                           {
+                          "categoryOptionCombo": "C6m6OCR7m6G",
+                          "dataElement": "emsyqv9XjW3",
+                          "row": 7,
+                          "column": 6
+                          },
+                           {
+                          "categoryOptionCombo": "drpUCVywbI0",
+                          "dataElement": "emsyqv9XjW3",
+                          "row": 8,
+                          "column": 6
+                          },
+                          {
+                          "categoryOptionCombo": "TnfsTY77mJy",
+                          "dataElement": "emsyqv9XjW3",
+                          "row": 9,
+                          "column": 6
+                          },
+                           {
+                          "categoryOptionCombo": "RJSlhFTTNXI",
+                          "dataElement": "emsyqv9XjW3",
+                          "row": 10,
+                          "column": 6
+                          },
+                           {
+                          "categoryOptionCombo": "Yg1cxATwSlO",
+                          "dataElement": "emsyqv9XjW3",
+                          "row": 11,
+                          "column": 6
+                          },
+                           {
+                          "categoryOptionCombo": "mbz798qghl6",
+                          "dataElement": "emsyqv9XjW3",
+                          "row": 12,
+                          "column": 6
+                          },
+                          
+                          
+                          {
+                          "categoryOptionCombo": "kUdV8RvgV5s",
+                          "dataElement": "emsyqv9XjW3",
+                          "row": 1,
+                          "column": 7
+                          },
+                           {
+                          "categoryOptionCombo": "K5vi0FouUhk",
+                          "dataElement": "emsyqv9XjW3",
+                          "row": 2,
+                          "column": 7
+                          },
+                           {
+                          "categoryOptionCombo": "Q4Firnf3ijf",
+                          "dataElement": "emsyqv9XjW3",
+                          "row": 3,
+                          "column": 7
+                          },
+                           {
+                          "categoryOptionCombo": "H6gRO6Fk2z5",
+                          "dataElement": "emsyqv9XjW3",
+                          "row": 4,
+                          "column": 7
+                          },
+                          {
+                          "categoryOptionCombo": "I06844kpruj",
+                          "dataElement": "emsyqv9XjW3",
+                          "row": 5,
+                          "column": 7
+                          },
+                           {
+                          "categoryOptionCombo": "dnENZnNWDsn",
+                          "dataElement": "emsyqv9XjW3",
+                          "row": 6,
+                          "column": 7
+                          },
+                           {
+                          "categoryOptionCombo": "dOp6s9tOpaQ",
+                          "dataElement": "emsyqv9XjW3",
+                          "row": 7,
+                          "column": 7
+                          },
+                           {
+                          "categoryOptionCombo": "hDYiOpgnUmE",
+                          "dataElement": "emsyqv9XjW3",
+                          "row": 8,
+                          "column": 7
+                          },
+                          {
+                          "categoryOptionCombo": "EAbeHR61ft1",
+                          "dataElement": "emsyqv9XjW3",
+                          "row": 9,
+                          "column": 7
+                          },
+                           {
+                          "categoryOptionCombo": "nQrR1Zgq2gr",
+                          "dataElement": "emsyqv9XjW3",
+                          "row": 10,
+                          "column": 7
+                          },
+                           {
+                          "categoryOptionCombo": "NTCqCfaP80J",
+                          "dataElement": "emsyqv9XjW3",
+                          "row": 11,
+                          "column": 7
+                          },
+                           {
+                          "categoryOptionCombo": "yXvU2aw5wyC",
+                          "dataElement": "emsyqv9XjW3",
+                          "row": 12,
+                          "column": 7
+                          },
+                          
+                          
+                          {
+                          "categoryOptionCombo": "CNcWYqvwPOl",
+                          "dataElement": "nyZn8wYkZZ3",
+                          "row": 1,
+                          "column": 8
+                          },
+                           {
+                          "categoryOptionCombo": "tcIRY6sRUwu",
+                          "dataElement": "nyZn8wYkZZ3",
+                          "row": 2,
+                          "column": 8
+                          },
+                           {
+                          "categoryOptionCombo": "RoJqHI8Mez4",
+                          "dataElement": "nyZn8wYkZZ3",
+                          "row": 3,
+                          "column": 8
+                          },
+                           {
+                          "categoryOptionCombo": "DV6o34zpIjv",
+                          "dataElement": "nyZn8wYkZZ3",
+                          "row": 4,
+                          "column": 8
+                          },
+                          {
+                          "categoryOptionCombo": "vfLYjpOKUf6",
+                          "dataElement": "nyZn8wYkZZ3",
+                          "row": 5,
+                          "column": 8
+                          },
+                           {
+                          "categoryOptionCombo": "oiMr7kc4xQ4",
+                          "dataElement": "nyZn8wYkZZ3",
+                          "row": 6,
+                          "column": 8
+                          },
+                           {
+                          "categoryOptionCombo": "C6m6OCR7m6G",
+                          "dataElement": "nyZn8wYkZZ3",
+                          "row": 7,
+                          "column": 8
+                          },
+                           {
+                          "categoryOptionCombo": "drpUCVywbI0",
+                          "dataElement": "nyZn8wYkZZ3",
+                          "row": 8,
+                          "column": 8
+                          },
+                          {
+                          "categoryOptionCombo": "TnfsTY77mJy",
+                          "dataElement": "nyZn8wYkZZ3",
+                          "row": 9,
+                          "column": 8
+                          },
+                           {
+                          "categoryOptionCombo": "RJSlhFTTNXI",
+                          "dataElement": "nyZn8wYkZZ3",
+                          "row": 10,
+                          "column": 8
+                          },
+                           {
+                          "categoryOptionCombo": "Yg1cxATwSlO",
+                          "dataElement": "nyZn8wYkZZ3",
+                          "row": 11,
+                          "column": 8
+                          },
+                           {
+                          "categoryOptionCombo": "mbz798qghl6",
+                          "dataElement": "nyZn8wYkZZ3",
+                          "row": 12,
+                          "column": 8
+                          },
+                          
+                          
+                          {
+                          "categoryOptionCombo": "kUdV8RvgV5s",
+                          "dataElement": "nyZn8wYkZZ3",
+                          "row": 1,
+                          "column": 9
+                          },
+                           {
+                          "categoryOptionCombo": "K5vi0FouUhk",
+                          "dataElement": "nyZn8wYkZZ3",
+                          "row": 2,
+                          "column": 9
+                          },
+                           {
+                          "categoryOptionCombo": "Q4Firnf3ijf",
+                          "dataElement": "nyZn8wYkZZ3",
+                          "row": 3,
+                          "column": 9
+                          },
+                           {
+                          "categoryOptionCombo": "H6gRO6Fk2z5",
+                          "dataElement": "nyZn8wYkZZ3",
+                          "row": 4,
+                          "column": 9
+                          },
+                          {
+                          "categoryOptionCombo": "I06844kpruj",
+                          "dataElement": "nyZn8wYkZZ3",
+                          "row": 5,
+                          "column": 9
+                          }
+                          ,
+                          {
+                          "categoryOptionCombo": "dnENZnNWDsn",
+                          "dataElement": "nyZn8wYkZZ3",
+                          "row": 6,
+                          "column": 9
+                          }
+                          ,
+                          {
+                          "categoryOptionCombo": "dOp6s9tOpaQ",
+                          "dataElement": "nyZn8wYkZZ3",
+                          "row": 7,
+                          "column": 9
+                          }
+                          ,
+                          {
+                          "categoryOptionCombo": "hDYiOpgnUmE",
+                          "dataElement": "nyZn8wYkZZ3",
+                          "row": 8,
+                          "column": 9
+                          }
+                          ,
+                          {
+                          "categoryOptionCombo": "EAbeHR61ft1",
+                          "dataElement": "nyZn8wYkZZ3",
+                          "row": 9,
+                          "column": 9
+                          }
+                          ,
+                          {
+                          "categoryOptionCombo": "nQrR1Zgq2gr",
+                          "dataElement": "nyZn8wYkZZ3",
+                          "row": 10,
+                          "column": 9
+                          }
+                          ,
+                          {
+                          "categoryOptionCombo": "NTCqCfaP80J",
+                          "dataElement": "nyZn8wYkZZ3",
+                          "row": 11,
+                          "column": 9
+                          },
+                          {
+                          "categoryOptionCombo": "yXvU2aw5wyC",
+                          "dataElement": "nyZn8wYkZZ3",
+                          "row": 12,
+                          "column": 9
+                          },
+                          
+                          
+                          {
+                          "categoryOptionCombo": "CNcWYqvwPOl",
+                          "dataElement": "fSJqtm89OAN",
+                          "row": 1,
+                          "column": 10
+                          },
+                           {
+                          "categoryOptionCombo": "tcIRY6sRUwu",
+                          "dataElement": "fSJqtm89OAN",
+                          "row": 2,
+                          "column": 10
+                          },
+                           {
+                          "categoryOptionCombo": "RoJqHI8Mez4",
+                          "dataElement": "fSJqtm89OAN",
+                          "row": 3,
+                          "column": 10
+                          },
+                           {
+                          "categoryOptionCombo": "DV6o34zpIjv",
+                          "dataElement": "fSJqtm89OAN",
+                          "row": 4,
+                          "column": 10
+                          },
+                          {
+                          "categoryOptionCombo": "vfLYjpOKUf6",
+                          "dataElement": "fSJqtm89OAN",
+                          "row": 5,
+                          "column": 10
+                          },
+                           {
+                          "categoryOptionCombo": "oiMr7kc4xQ4",
+                          "dataElement": "fSJqtm89OAN",
+                          "row": 6,
+                          "column": 10
+                          },
+                           {
+                          "categoryOptionCombo": "C6m6OCR7m6G",
+                          "dataElement": "fSJqtm89OAN",
+                          "row": 7,
+                          "column": 10
+                          },
+                           {
+                          "categoryOptionCombo": "drpUCVywbI0",
+                          "dataElement": "fSJqtm89OAN",
+                          "row": 8,
+                          "column": 10
+                          },
+                          {
+                          "categoryOptionCombo": "TnfsTY77mJy",
+                          "dataElement": "fSJqtm89OAN",
+                          "row": 9,
+                          "column": 10
+                          },
+                           {
+                          "categoryOptionCombo": "RJSlhFTTNXI",
+                          "dataElement": "fSJqtm89OAN",
+                          "row": 10,
+                          "column": 10
+                          },
+                           {
+                          "categoryOptionCombo": "Yg1cxATwSlO",
+                          "dataElement": "fSJqtm89OAN",
+                          "row": 11,
+                          "column": 10
+                          },
+                           {
+                          "categoryOptionCombo": "mbz798qghl6",
+                          "dataElement": "fSJqtm89OAN",
+                          "row": 12,
+                          "column": 10
+                          },
+                          
+                          
+                          {
+                          "categoryOptionCombo": "kUdV8RvgV5s",
+                          "dataElement": "fSJqtm89OAN",
+                          "row": 1,
+                          "column": 11
+                          },
+                           {
+                          "categoryOptionCombo": "K5vi0FouUhk",
+                          "dataElement": "fSJqtm89OAN",
+                          "row": 2,
+                          "column": 11
+                          },
+                           {
+                          "categoryOptionCombo": "Q4Firnf3ijf",
+                          "dataElement": "fSJqtm89OAN",
+                          "row": 3,
+                          "column": 11
+                          },
+                           {
+                          "categoryOptionCombo": "H6gRO6Fk2z5",
+                          "dataElement": "fSJqtm89OAN",
+                          "row": 4,
+                          "column": 11
+                          },
+                          {
+                          "categoryOptionCombo": "I06844kpruj",
+                          "dataElement": "fSJqtm89OAN",
+                          "row": 5,
+                          "column": 11
+                          },
+                           {
+                          "categoryOptionCombo": "dnENZnNWDsn",
+                          "dataElement": "fSJqtm89OAN",
+                          "row": 6,
+                          "column": 11
+                          },
+                           {
+                          "categoryOptionCombo": "dOp6s9tOpaQ",
+                          "dataElement": "fSJqtm89OAN",
+                          "row": 7,
+                          "column": 11
+                          },
+                           {
+                          "categoryOptionCombo": "hDYiOpgnUmE",
+                          "dataElement": "fSJqtm89OAN",
+                          "row": 8,
+                          "column": 11
+                          },
+                          {
+                          "categoryOptionCombo": "EAbeHR61ft1",
+                          "dataElement": "fSJqtm89OAN",
+                          "row": 9,
+                          "column": 11
+                          },
+                           {
+                          "categoryOptionCombo": "nQrR1Zgq2gr",
+                          "dataElement": "fSJqtm89OAN",
+                          "row": 10,
+                          "column": 11
+                          },
+                           {
+                          "categoryOptionCombo": "NTCqCfaP80J",
+                          "dataElement": "fSJqtm89OAN",
+                          "row": 11,
+                          "column": 11
+                          },
+                           {
+                          "categoryOptionCombo": "yXvU2aw5wyC",
+                          "dataElement": "fSJqtm89OAN",
+                          "row": 12,
+                          "column": 11
+                          }
+                  ]
+          }
+          ,
+          
+          
+          
+          "ART CARE - NEW AND CURRENT ON ART_SECTION B": {
+                  "dataValues":[
+                          {
+                          "_comment": "total current in CAGs",
+                          "categoryOptionCombo": "tUiK0vIsDaX",
+                          "dataElement": "yztonJmqtCT",
+                          "row": 1,
+                          "column": 2
+                          },
+                          {
+                          "_comment": "transfer in",
+                          "categoryOptionCombo": "tUiK0vIsDaX",
+                          "dataElement": "YgvGvd3NUxR",
+                          "row": 2,
+                          "column": 2
+                          },
+                           {
+                          "_comment": "transfer out",
+                          "categoryOptionCombo": "tUiK0vIsDaX",
+                          "dataElement": "OsHsdDsIaaO",
+                          "row": 3,
+                          "column": 2
+                          },
+                           {
+                          "_comment": "restarted",
+                          "categoryOptionCombo": "tUiK0vIsDaX",
+                          "dataElement": "X2PAGRx7lhQ",
+                          "row": 4,
+                          "column": 2
+                          }
+                          ,
+                           {
+                          "_comment": "died",
+                          "categoryOptionCombo": "tUiK0vIsDaX",
+                          "dataElement": "i1TwYjSZY1C",
+                          "row": 5,
+                          "column": 2
+                          }
+                          ,
+                           {
+                          "_comment": "stopped",
+                          "categoryOptionCombo": "tUiK0vIsDaX",
+                          "dataElement": "nJ6YxF8Y6Zs",
+                          "row": 6,
+                          "column": 2
+                          }
+                          ,
+                           {
+                          "_comment": "lost",
+                          "categoryOptionCombo": "tUiK0vIsDaX",
+                          "dataElement": "tuCe7xumbwp",
+                          "row": 7,
+                          "column": 2
+                          }
+                  ]
+          }
+          ,
+          
+          
+          
+          "TB Screening Among HIV Clients": {
+                  "dataValues":[
+                          {
+                          "categoryOptionCombo": "gIRokZTOVff",
+                          "dataElement": "ENu4gYGSB17",
+                          "row": 1,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "gIRokZTOVff",
+                          "dataElement": "KqqV0mqiW4J",
+                          "row": 2,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "gIRokZTOVff",
+                          "dataElement": "Ich4yKGtogF",
+                          "row": 3,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "gIRokZTOVff",
+                          "dataElement": "Tq3zWF4jLrL",
+                          "row": 4,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "gIRokZTOVff",
+                          "dataElement": "BBMSsL3eXbc",
+                          "row": 5,
+                          "column": 2
+                          },
+                          
+                           {
+                          "categoryOptionCombo": "WBH8uUpt9Pj",
+                          "dataElement": "ENu4gYGSB17",
+                          "row": 1,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "WBH8uUpt9Pj",
+                          "dataElement": "KqqV0mqiW4J",
+                          "row": 2,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "WBH8uUpt9Pj",
+                          "dataElement": "Ich4yKGtogF",
+                          "row": 3,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "WBH8uUpt9Pj",
+                          "dataElement": "Tq3zWF4jLrL",
+                          "row": 4,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "WBH8uUpt9Pj",
+                          "dataElement": "BBMSsL3eXbc",
+                          "row": 5,
+                          "column": 3
+                          },
+                          
+                          {
+                          "categoryOptionCombo": "z12EITtQb34",
+                          "dataElement": "ENu4gYGSB17",
+                          "row": 1,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "z12EITtQb34",
+                          "dataElement": "KqqV0mqiW4J",
+                          "row": 2,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "z12EITtQb34",
+                          "dataElement": "Ich4yKGtogF",
+                          "row": 3,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "z12EITtQb34",
+                          "dataElement": "Tq3zWF4jLrL",
+                          "row": 4,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "z12EITtQb34",
+                          "dataElement": "BBMSsL3eXbc",
+                          "row": 5,
+                          "column": 4
+                          },
+                          
+                          {
+                          "categoryOptionCombo": "iEFWXqdhqg9",
+                          "dataElement": "ENu4gYGSB17",
+                          "row": 1,
+                          "column": 5
+                          },
+                           {
+                          "categoryOptionCombo": "iEFWXqdhqg9",
+                          "dataElement": "KqqV0mqiW4J",
+                          "row": 2,
+                          "column": 5
+                          },
+                           {
+                          "categoryOptionCombo": "iEFWXqdhqg9",
+                          "dataElement": "Ich4yKGtogF",
+                          "row": 3,
+                          "column": 5
+                          },
+                           {
+                          "categoryOptionCombo": "iEFWXqdhqg9",
+                          "dataElement": "Tq3zWF4jLrL",
+                          "row": 4,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "iEFWXqdhqg9",
+                          "dataElement": "BBMSsL3eXbc",
+                          "row": 5,
+                          "column": 5
+                          }
+                  ]
+          }
+          
+          
+          
+          ,
+          
+        "Adult ARV Regimen at the End of the Month - 1st Line": {
+                  "dataValues":[
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "P46vyh7AU8U",
+                          "row": 1,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "T08eiEYExoJ",
+                          "row": 2,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "HL9iCrVkjed",
+                          "row": 3,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "pk20c7Tg7qU",
+                          "row": 4,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "TI4IyOhybjn",
+                          "row": 5,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "SsX7iNSlH7f",
+                          "row": 6,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "CRvvczRvzva",
+                          "row": 7,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "ZdA09PTOQsd",
+                          "row": 8,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "usnq2FQ96fp",
+                          "row": 9,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "YU5fBTDylwO",
+                          "row": 10,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "M3KHP3j57vE",
+                          "row": 11,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "fN4VZCwYxoN",
+                          "row": 12,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "htp0NnpcW6s",
+                          "row": 13,
+                          "column": 2
+                          }
+                          ,
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "pdwwSiJUQje",
+                          "row": 14,
+                          "column": 2
+                          }
+                          ,
+                          
+                          
+                          {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "P46vyh7AU8U",
+                          "row": 1,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "T08eiEYExoJ",
+                          "row": 2,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "HL9iCrVkjed",
+                          "row": 3,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "pk20c7Tg7qU",
+                          "row": 4,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "TI4IyOhybjn",
+                          "row": 5,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "SsX7iNSlH7f",
+                          "row": 6,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "CRvvczRvzva",
+                          "row": 7,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "ZdA09PTOQsd",
+                          "row": 8,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "usnq2FQ96fp",
+                          "row": 9,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "YU5fBTDylwO",
+                          "row": 10,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "M3KHP3j57vE",
+                          "row": 11,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "fN4VZCwYxoN",
+                          "row": 12,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "htp0NnpcW6s",
+                          "row": 13,
+                          "column": 3
+                          }
+                          ,
+                          {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "pdwwSiJUQje",
+                          "row": 14,
+                          "column": 3
+                          }
+                          ,
+                          
+                          
+                          
+                          {
+                          "categoryOptionCombo": "rHmRtl8onqz",
+                          "dataElement": "P46vyh7AU8U",
+                          "row": 1,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "rHmRtl8onqz",
+                          "dataElement": "T08eiEYExoJ",
+                          "row": 2,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "rHmRtl8onqz",
+                          "dataElement": "HL9iCrVkjed",
+                          "row": 3,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "rHmRtl8onqz",
+                          "dataElement": "pk20c7Tg7qU",
+                          "row": 4,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "rHmRtl8onqz",
+                          "dataElement": "TI4IyOhybjn",
+                          "row": 5,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "rHmRtl8onqz",
+                          "dataElement": "SsX7iNSlH7f",
+                          "row": 6,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "rHmRtl8onqz",
+                          "dataElement": "CRvvczRvzva",
+                          "row": 7,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "rHmRtl8onqz",
+                          "dataElement": "ZdA09PTOQsd",
+                          "row": 8,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "rHmRtl8onqz",
+                          "dataElement": "usnq2FQ96fp",
+                          "row": 9,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "rHmRtl8onqz",
+                          "dataElement": "YU5fBTDylwO",
+                          "row": 10,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "rHmRtl8onqz",
+                          "dataElement": "M3KHP3j57vE",
+                          "row": 11,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "rHmRtl8onqz",
+                          "dataElement": "fN4VZCwYxoN",
+                          "row": 12,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "rHmRtl8onqz",
+                          "dataElement": "htp0NnpcW6s",
+                          "row": 13,
+                          "column": 4
+                          }
+                          ,
+                          {
+                          "categoryOptionCombo": "rHmRtl8onqz",
+                          "dataElement": "pdwwSiJUQje",
+                          "row": 14,
+                          "column": 4
+                          }
+                          ,
+                          
+                          
+                          
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "P46vyh7AU8U",
+                          "row": 1,
+                          "column": 5
+                          },
+                           {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "T08eiEYExoJ",
+                          "row": 2,
+                          "column": 5
+                          },
+                           {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "HL9iCrVkjed",
+                          "row": 3,
+                          "column": 5
+                          },
+                           {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "pk20c7Tg7qU",
+                          "row": 4,
+                          "column": 5
+                          },
+                           {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "TI4IyOhybjn",
+                          "row": 5,
+                          "column": 5
+                          },
+                           {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "SsX7iNSlH7f",
+                          "row": 6,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "CRvvczRvzva",
+                          "row": 7,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "ZdA09PTOQsd",
+                          "row": 8,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "usnq2FQ96fp",
+                          "row": 9,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "YU5fBTDylwO",
+                          "row": 10,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "M3KHP3j57vE",
+                          "row": 11,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "fN4VZCwYxoN",
+                          "row": 12,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "htp0NnpcW6s",
+                          "row": 13,
+                          "column": 5
+                          }
+                          ,
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "pdwwSiJUQje",
+                          "row": 14,
+                          "column": 5
+                          }
+                          
+                          
+                          
+                  ]
+          }
+          ,
+          "Adult ARV Regimen 2nd Line": {
+                  "dataValues":[
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "ymzKmfrNPO5",
+                          "row": 1,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "u9R6jTyMCZZ",
+                          "row": 2,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "imXNNFtypKZ",
+                          "row": 3,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "fuY4KfjjlXj",
+                          "row": 4,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "jylrb6opRPH",
+                          "row": 5,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "H8aNsNYKvgc",
+                          "row": 6,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "Q9d2XQ3rQxP",
+                          "row": 7,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "o8DkeGaWp2T",
+                          "row": 8,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "ldzxaZcTXc1",
+                          "row": 9,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "F0TiyX3iMJ7",
+                          "row": 10,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "IC8Ue23FRXA",
+                          "row": 11,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "IlKv9YD1udT",
+                          "row": 12,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "OcKBGX2APjH",
+                          "row": 13,
+                          "column": 2
+                          }
+                          ,
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "MRwEgBhw72e",
+                          "row": 14,
+                          "column": 2
+                          }
+                          ,
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "bueSPKLxwAO",
+                          "row": 15,
+                          "column": 2
+                          }
+                          ,
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "aVTdHxFAABR",
+                          "row": 16,
+                          "column": 2
+                          }
+                          ,
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "owKR7LxHWGu",
+                          "row": 17,
+                          "column": 2
+                          }
+                          ,
+                          
+                          
+                          {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "ymzKmfrNPO5",
+                          "row": 1,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "u9R6jTyMCZZ",
+                          "row": 2,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "imXNNFtypKZ",
+                          "row": 3,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "fuY4KfjjlXj",
+                          "row": 4,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "jylrb6opRPH",
+                          "row": 5,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "H8aNsNYKvgc",
+                          "row": 6,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "Q9d2XQ3rQxP",
+                          "row": 7,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "o8DkeGaWp2T",
+                          "row": 8,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "ldzxaZcTXc1",
+                          "row": 9,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "F0TiyX3iMJ7",
+                          "row": 10,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "IC8Ue23FRXA",
+                          "row": 11,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "IlKv9YD1udT",
+                          "row": 12,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "OcKBGX2APjH",
+                          "row": 13,
+                          "column": 3
+                          }
+                          ,
+                          {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "MRwEgBhw72e",
+                          "row": 14,
+                          "column": 3
+                          }
+                          ,
+                          {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "bueSPKLxwAO",
+                          "row": 15,
+                          "column": 3
+                          }
+                          ,
+                          {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "aVTdHxFAABR",
+                          "row": 16,
+                          "column": 3
+                          }
+                          ,
+                          {
+                          "categoryOptionCombo": "acGZ4u0GIvC",
+                          "dataElement": "owKR7LxHWGu",
+                          "row": 17,
+                          "column": 3
+                          }
+                          ,
+                          
+                          
+                          
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "ymzKmfrNPO5",
+                          "row": 1,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "u9R6jTyMCZZ",
+                          "row": 2,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "imXNNFtypKZ",
+                          "row": 3,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "fuY4KfjjlXj",
+                          "row": 4,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "jylrb6opRPH",
+                          "row": 5,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "H8aNsNYKvgc",
+                          "row": 6,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "Q9d2XQ3rQxP",
+                          "row": 7,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "o8DkeGaWp2T",
+                          "row": 8,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "ldzxaZcTXc1",
+                          "row": 9,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "F0TiyX3iMJ7",
+                          "row": 10,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "IC8Ue23FRXA",
+                          "row": 11,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "IlKv9YD1udT",
+                          "row": 12,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "OcKBGX2APjH",
+                          "row": 13,
+                          "column": 4
+                          }
+                          ,
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "MRwEgBhw72e",
+                          "row": 14,
+                          "column": 4
+                          }
+                          ,
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "bueSPKLxwAO",
+                          "row": 15,
+                          "column": 4
+                          }
+                          ,
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "aVTdHxFAABR",
+                          "row": 16,
+                          "column": 4
+                          }
+                          ,
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "owKR7LxHWGu",
+                          "row": 17,
+                          "column": 4
+                          }
+                          
+                          
+                          
+                  ]
+          }
+          ,
+          
+          
+          
+          "Adult ARV Regimen 3rd Line": {
+                  "dataValues":[
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "sgf6uW1U3Hh",
+                          "row": 1,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "XX0ugIUXWOM",
+                          "row": 2,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "sYswJ8GLE5l",
+                          "row": 3,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "hEUmfMgmZzN",
+                          "row": 4,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "nPneThmcqoF",
+                          "row": 5,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "qzjD3osXDsr",
+                          "row": 6,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "bYhv6LrHXI0",
+                          "row": 7,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "P9Q6sPuaCY7",
+                          "dataElement": "ejfRCZGUTar",
+                          "row": 8,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "sgf6uW1U3Hh",
+                          "row": 1,
+                          "column": 3
+                          },
+                          
+                          
+                           {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "XX0ugIUXWOM",
+                          "row": 2,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "sYswJ8GLE5l",
+                          "row": 3,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "hEUmfMgmZzN",
+                          "row": 4,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "nPneThmcqoF",
+                          "row": 5,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "qzjD3osXDsr",
+                          "row": 6,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "bYhv6LrHXI0",
+                          "row": 7,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "bb4YHRc6bii",
+                          "dataElement": "ejfRCZGUTar",
+                          "row": 8,
+                          "column": 3
+                          },
+                  ]
+          }
+          ,
+          
+          
+          "Children ARV Regimen 2nd Line": {
+                  "dataValues":[
+                          {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "ctVH46atted",
+                          "row": 1,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "fdjlhYvIo52",
+                          "row": 2,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "nA5APc3cXah",
+                          "row": 3,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "pRImanAxgJV",
+                          "row": 4,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "H9U8sgvzpD4",
+                          "row": 5,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "pJcDO1c9x1M",
+                          "row": 6,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "se8ne49VPcx",
+                          "row": 7,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "bkmHNKG5PfT",
+                          "row": 8,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "BKqLvcHF7jF",
+                          "row": 9,
+                          "column": 2
+                          },
+                          
+                          
+                          
+                          {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "ctVH46atted",
+                          "row": 1,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "fdjlhYvIo52",
+                          "row": 2,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "nA5APc3cXah",
+                          "row": 3,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "pRImanAxgJV",
+                          "row": 4,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "H9U8sgvzpD4",
+                          "row": 5,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "pJcDO1c9x1M",
+                          "row": 6,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "se8ne49VPcx",
+                          "row": 7,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "bkmHNKG5PfT",
+                          "row": 8,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "BKqLvcHF7jF",
+                          "row": 9,
+                          "column": 3
+                          },
+                          
+                          
+                          {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "ctVH46atted",
+                          "row": 1,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "fdjlhYvIo52",
+                          "row": 2,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "nA5APc3cXah",
+                          "row": 3,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "pRImanAxgJV",
+                          "row": 4,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "H9U8sgvzpD4",
+                          "row": 5,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "pJcDO1c9x1M",
+                          "row": 6,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "se8ne49VPcx",
+                          "row": 7,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "bkmHNKG5PfT",
+                          "row": 8,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "BKqLvcHF7jF",
+                          "row": 9,
+                          "column": 4
+                          },
+                          
+                          
+                          {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "ctVH46atted",
+                          "row": 1,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "fdjlhYvIo52",
+                          "row": 2,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "nA5APc3cXah",
+                          "row": 3,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "pRImanAxgJV",
+                          "row": 4,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "H9U8sgvzpD4",
+                          "row": 5,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "pJcDO1c9x1M",
+                          "row": 6,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "se8ne49VPcx",
+                          "row": 7,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "bkmHNKG5PfT",
+                          "row": 8,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "BKqLvcHF7jF",
+                          "row": 9,
+                          "column": 5
+                          },
+                          
+                          
+                          {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "ctVH46atted",
+                          "row": 1,
+                          "column": 6
+                          },
+                          {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "fdjlhYvIo52",
+                          "row": 2,
+                          "column": 6
+                          },
+                          {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "nA5APc3cXah",
+                          "row": 3,
+                          "column": 6
+                          },
+                          {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "pRImanAxgJV",
+                          "row": 4,
+                          "column": 6
+                          },
+                          {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "H9U8sgvzpD4",
+                          "row": 5,
+                          "column": 6
+                          },
+                          {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "pJcDO1c9x1M",
+                          "row": 6,
+                          "column": 6
+                          },
+                          {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "se8ne49VPcx",
+                          "row": 7,
+                          "column": 6
+                          },
+                          {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "bkmHNKG5PfT",
+                          "row": 8,
+                          "column": 6
+                          },
+                          {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "BKqLvcHF7jF",
+                          "row": 9,
+                          "column": 6
+                          },
+                          
+                          
+                          {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "ctVH46atted",
+                          "row": 1,
+                          "column": 7
+                          },
+                          {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "fdjlhYvIo52",
+                          "row": 2,
+                          "column": 7
+                          },
+                          {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "nA5APc3cXah",
+                          "row": 3,
+                          "column": 7
+                          },
+                          {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "pRImanAxgJV",
+                          "row": 4,
+                          "column": 7
+                          },
+                          {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "H9U8sgvzpD4",
+                          "row": 5,
+                          "column": 7
+                          },
+                          {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "pJcDO1c9x1M",
+                          "row": 6,
+                          "column": 7
+                          },
+                          {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "se8ne49VPcx",
+                          "row": 7,
+                          "column": 7
+                          },
+                          {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "bkmHNKG5PfT",
+                          "row": 8,
+                          "column": 7
+                          },
+                          {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "BKqLvcHF7jF",
+                          "row": 9,
+                          "column": 7
+                          },
+                          
+                          
+                          {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "ctVH46atted",
+                          "row": 1,
+                          "column": 8
+                          },
+                          {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "fdjlhYvIo52",
+                          "row": 2,
+                          "column": 8
+                          },
+                          {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "nA5APc3cXah",
+                          "row": 3,
+                          "column": 8
+                          },
+                          {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "pRImanAxgJV",
+                          "row": 4,
+                          "column": 8
+                          },
+                          {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "H9U8sgvzpD4",
+                          "row": 5,
+                          "column": 8
+                          },
+                          {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "pJcDO1c9x1M",
+                          "row": 6,
+                          "column": 8
+                          },
+                          {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "se8ne49VPcx",
+                          "row": 7,
+                          "column": 8
+                          },
+                          {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "bkmHNKG5PfT",
+                          "row": 8,
+                          "column": 8
+                          },
+                          {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "BKqLvcHF7jF",
+                          "row": 9,
+                          "column": 8
+                          },
+                          
+                          
+                          {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "ctVH46atted",
+                          "row": 1,
+                          "column": 9
+                          },
+                          {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "fdjlhYvIo52",
+                          "row": 2,
+                          "column": 9
+                          },
+                          {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "nA5APc3cXah",
+                          "row": 3,
+                          "column": 9
+                          },
+                          {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "pRImanAxgJV",
+                          "row": 4,
+                          "column": 9
+                          },
+                          {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "H9U8sgvzpD4",
+                          "row": 5,
+                          "column": 9
+                          },
+                          {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "pJcDO1c9x1M",
+                          "row": 6,
+                          "column": 9
+                          },
+                          {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "se8ne49VPcx",
+                          "row": 7,
+                          "column": 9
+                          },
+                          {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "bkmHNKG5PfT",
+                          "row": 8,
+                          "column": 9
+                          },
+                          {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "BKqLvcHF7jF",
+                          "row": 9,
+                          "column": 9
+                          }
+                  ]
+          }
+          ,
+          
+          
+          
+          "Children ARV Regimen 3rd Line": {
+                  "dataValues":[
+                          {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "lSrC9CpBqV3",
+                          "row": 1,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "Bpv9n2uB5aX",
+                          "row": 2,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "eLOlhCKSR5y",
+                          "row": 3,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "Evona4A3VYd",
+                          "row": 4,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "e0OsDZEtYnq",
+                          "row": 5,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "k1Lkok6QHiG",
+                          "row": 6,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "ZDgSl1ozjc7",
+                          "row": 7,
+                          "column": 2
+                          },
+                          
+                          
+                           {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "lSrC9CpBqV3",
+                          "row": 1,
+                          "column": 3
+                          },				
+                          
+                           {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "Bpv9n2uB5aX",
+                          "row": 2,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "eLOlhCKSR5y",
+                          "row": 3,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "Evona4A3VYd",
+                          "row": 4,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "e0OsDZEtYnq",
+                          "row": 5,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "k1Lkok6QHiG",
+                          "row": 6,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "ZDgSl1ozjc7",
+                          "row": 7,
+                          "column": 3
+                          },
+  
+                          
+                           {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "lSrC9CpBqV3",
+                          "row": 1,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "Bpv9n2uB5aX",
+                          "row": 2,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "eLOlhCKSR5y",
+                          "row": 3,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "Evona4A3VYd",
+                          "row": 4,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "e0OsDZEtYnq",
+                          "row": 5,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "k1Lkok6QHiG",
+                          "row": 6,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "ZDgSl1ozjc7",
+                          "row": 7,
+                          "column": 4
+                          },
+  
+                          
+                           {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "lSrC9CpBqV3",
+                          "row": 1,
+                          "column": 5
+                          },
+                           {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "Bpv9n2uB5aX",
+                          "row": 2,
+                          "column": 5
+                          },
+                           {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "eLOlhCKSR5y",
+                          "row": 3,
+                          "column": 5
+                          },
+                           {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "Evona4A3VYd",
+                          "row": 4,
+                          "column": 5
+                          },
+                           {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "e0OsDZEtYnq",
+                          "row": 5,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "k1Lkok6QHiG",
+                          "row": 6,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "ZDgSl1ozjc7",
+                          "row": 7,
+                          "column": 5
+                          },
+  
+                          
+                           {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "lSrC9CpBqV3",
+                          "row": 1,
+                          "column": 6
+                          },
+                           {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "Bpv9n2uB5aX",
+                          "row": 2,
+                          "column": 6
+                          },
+                           {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "eLOlhCKSR5y",
+                          "row": 3,
+                          "column": 6
+                          },
+                           {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "Evona4A3VYd",
+                          "row": 4,
+                          "column": 6
+                          },
+                           {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "e0OsDZEtYnq",
+                          "row": 5,
+                          "column": 6
+                          },
+                          {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "k1Lkok6QHiG",
+                          "row": 6,
+                          "column": 6
+                          },
+                          {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "ZDgSl1ozjc7",
+                          "row": 7,
+                          "column": 6
+                          },						
+  
+                          
+                           {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "lSrC9CpBqV3",
+                          "row": 1,
+                          "column": 7
+                          },
+                           {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "Bpv9n2uB5aX",
+                          "row": 2,
+                          "column": 7
+                          },
+                           {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "eLOlhCKSR5y",
+                          "row": 3,
+                          "column": 7
+                          },
+                           {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "Evona4A3VYd",
+                          "row": 4,
+                          "column": 7
+                          },
+                           {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "e0OsDZEtYnq",
+                          "row": 5,
+                          "column": 7
+                          },
+                          {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "k1Lkok6QHiG",
+                          "row": 6,
+                          "column": 7
+                          },
+                          {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "ZDgSl1ozjc7",
+                          "row": 7,
+                          "column": 7
+                          },
+  
+                          
+                           {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "lSrC9CpBqV3",
+                          "row": 1,
+                          "column": 8
+                          },
+                           {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "Bpv9n2uB5aX",
+                          "row": 2,
+                          "column": 8
+                          },
+                           {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "eLOlhCKSR5y",
+                          "row": 3,
+                          "column": 8
+                          },
+                           {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "Evona4A3VYd",
+                          "row": 4,
+                          "column": 8
+                          },
+                           {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "e0OsDZEtYnq",
+                          "row": 5,
+                          "column": 8
+                          },
+                          {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "k1Lkok6QHiG",
+                          "row": 6,
+                          "column": 8
+                          },
+                          {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "ZDgSl1ozjc7",
+                          "row": 7,
+                          "column": 8
+                          },		
+  
+                          
+                           {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "lSrC9CpBqV3",
+                          "row": 1,
+                          "column": 9
+                          },
+                           {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "Bpv9n2uB5aX",
+                          "row": 2,
+                          "column": 9
+                          },
+                           {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "eLOlhCKSR5y",
+                          "row": 3,
+                          "column": 9
+                          },
+                           {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "Evona4A3VYd",
+                          "row": 4,
+                          "column": 9
+                          },
+                           {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "e0OsDZEtYnq",
+                          "row": 5,
+                          "column": 9
+                          },
+                          {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "k1Lkok6QHiG",
+                          "row": 6,
+                          "column": 9
+                          },
+                          {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "ZDgSl1ozjc7",
+                          "row": 6,
+                          "column": 9
+                          }
+                  ]
+          }
+          
+          
+          
+          
+          ,
+          
+          
+          "Children ARV Regimen 1st Line": {
+                  "dataValues":[
+                          {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "SFICqWM5bj3",
+                          "row": 1,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "fv47xAmohXH",
+                          "row": 2,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "vIcIatXw5SW",
+                          "row": 3,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "yuHbTd8SQZk",
+                          "row": 4,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "dl4wDu8kx9s",
+                          "row": 5,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "fi6fUO1GLQQ",
+                          "row": 6,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "sxpfGjBK7kZ",
+                          "row": 7,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "qGn92kNyG6A",
+                          "row": 8,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "QqVeOfBbOlr",
+                          "row": 9,
+                          "column": 2
+                          },
+                          {
+                          "categoryOptionCombo": "mPQoKHoKpE3",
+                          "dataElement": "SCavSTdLuxY",
+                          "row": 10,
+                          "column": 2
+                          },
+                          
+                          
+                          {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "SFICqWM5bj3",
+                          "row": 1,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "fv47xAmohXH",
+                          "row": 2,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "vIcIatXw5SW",
+                          "row": 3,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "yuHbTd8SQZk",
+                          "row": 4,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "dl4wDu8kx9s",
+                          "row": 5,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "fi6fUO1GLQQ",
+                          "row": 6,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "sxpfGjBK7kZ",
+                          "row": 7,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "qGn92kNyG6A",
+                          "row": 8,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "QqVeOfBbOlr",
+                          "row": 9,
+                          "column": 3
+                          },
+                          {
+                          "categoryOptionCombo": "Nu3y8NRbmmf",
+                          "dataElement": "SCavSTdLuxY",
+                          "row": 10,
+                          "column": 3
+                          },
+                          
+                          
+                          {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "SFICqWM5bj3",
+                          "row": 1,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "fv47xAmohXH",
+                          "row": 2,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "vIcIatXw5SW",
+                          "row": 3,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "yuHbTd8SQZk",
+                          "row": 4,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "dl4wDu8kx9s",
+                          "row": 5,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "fi6fUO1GLQQ",
+                          "row": 6,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "sxpfGjBK7kZ",
+                          "row": 7,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "qGn92kNyG6A",
+                          "row": 8,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "QqVeOfBbOlr",
+                          "row": 9,
+                          "column": 4
+                          },
+                          {
+                          "categoryOptionCombo": "TWJNKrVCaa9",
+                          "dataElement": "SCavSTdLuxY",
+                          "row": 10,
+                          "column": 4
+                          },
+                          
+                          
+                          {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "SFICqWM5bj3",
+                          "row": 1,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "fv47xAmohXH",
+                          "row": 2,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "vIcIatXw5SW",
+                          "row": 3,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "yuHbTd8SQZk",
+                          "row": 4,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "dl4wDu8kx9s",
+                          "row": 5,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "fi6fUO1GLQQ",
+                          "row": 6,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "sxpfGjBK7kZ",
+                          "row": 7,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "qGn92kNyG6A",
+                          "row": 8,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "QqVeOfBbOlr",
+                          "row": 9,
+                          "column": 5
+                          },
+                          {
+                          "categoryOptionCombo": "SF1ah36chuk",
+                          "dataElement": "SCavSTdLuxY",
+                          "row": 10,
+                          "column": 5
+                          },
+                          
+                          
+                          {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "SFICqWM5bj3",
+                          "row": 1,
+                          "column": 6
+                          },
+                          {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "fv47xAmohXH",
+                          "row": 2,
+                          "column": 6
+                          },
+                          {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "vIcIatXw5SW",
+                          "row": 3,
+                          "column": 6
+                          },
+                          {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "yuHbTd8SQZk",
+                          "row": 4,
+                          "column": 6
+                          },
+                          {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "dl4wDu8kx9s",
+                          "row": 5,
+                          "column": 6
+                          },
+                          {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "fi6fUO1GLQQ",
+                          "row": 6,
+                          "column": 6
+                          },
+                          {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "sxpfGjBK7kZ",
+                          "row": 7,
+                          "column": 6
+                          },
+                          {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "qGn92kNyG6A",
+                          "row": 8,
+                          "column": 6
+                          },
+                          {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "QqVeOfBbOlr",
+                          "row": 9,
+                          "column": 6
+                          },
+                          {
+                          "categoryOptionCombo": "mxrT6vEtJof",
+                          "dataElement": "SCavSTdLuxY",
+                          "row": 10,
+                          "column": 6
+                          },
+                          
+                          
+                          {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "SFICqWM5bj3",
+                          "row": 1,
+                          "column": 7
+                          },
+                          {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "fv47xAmohXH",
+                          "row": 2,
+                          "column": 7
+                          },
+                          {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "vIcIatXw5SW",
+                          "row": 3,
+                          "column": 7
+                          },
+                          {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "yuHbTd8SQZk",
+                          "row": 4,
+                          "column": 7
+                          },
+                          {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "dl4wDu8kx9s",
+                          "row": 5,
+                          "column": 7
+                          },
+                          {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "fi6fUO1GLQQ",
+                          "row": 6,
+                          "column": 7
+                          },
+                          {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "sxpfGjBK7kZ",
+                          "row": 7,
+                          "column": 7
+                          },
+                          {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "qGn92kNyG6A",
+                          "row": 8,
+                          "column": 7
+                          },
+                          {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "QqVeOfBbOlr",
+                          "row": 9,
+                          "column": 7
+                          },
+                          {
+                          "categoryOptionCombo": "Y9mjCBlX0qM",
+                          "dataElement": "SCavSTdLuxY",
+                          "row": 10,
+                          "column": 7
+                          },
+                          
+                          
+                          {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "SFICqWM5bj3",
+                          "row": 1,
+                          "column": 8
+                          },
+                          {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "fv47xAmohXH",
+                          "row": 2,
+                          "column": 8
+                          },
+                          {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "vIcIatXw5SW",
+                          "row": 3,
+                          "column": 8
+                          },
+                          {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "yuHbTd8SQZk",
+                          "row": 4,
+                          "column": 8
+                          },
+                          {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "dl4wDu8kx9s",
+                          "row": 5,
+                          "column": 8
+                          },
+                          {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "fi6fUO1GLQQ",
+                          "row": 6,
+                          "column": 8
+                          },
+                          {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "sxpfGjBK7kZ",
+                          "row": 7,
+                          "column": 8
+                          },
+                          {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "qGn92kNyG6A",
+                          "row": 8,
+                          "column": 8
+                          },
+                          {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "QqVeOfBbOlr",
+                          "row": 9,
+                          "column": 8
+                          },
+                          {
+                          "categoryOptionCombo": "uT3QLbThgHo",
+                          "dataElement": "SCavSTdLuxY",
+                          "row": 10,
+                          "column": 8
+                          },
+                          
+                          
+                          {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "SFICqWM5bj3",
+                          "row": 1,
+                          "column": 9
+                          },
+                          {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "fv47xAmohXH",
+                          "row": 2,
+                          "column": 9
+                          },
+                          {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "vIcIatXw5SW",
+                          "row": 3,
+                          "column": 9
+                          },
+                          {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "yuHbTd8SQZk",
+                          "row": 4,
+                          "column": 9
+                          },
+                          {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "dl4wDu8kx9s",
+                          "row": 5,
+                          "column": 9
+                          },
+                          {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "fi6fUO1GLQQ",
+                          "row": 6,
+                          "column": 9
+                          },
+                          {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "sxpfGjBK7kZ",
+                          "row": 7,
+                          "column": 9
+                          },
+                          {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "qGn92kNyG6A",
+                          "row": 8,
+                          "column": 9
+                          },
+                          {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "QqVeOfBbOlr",
+                          "row": 9,
+                          "column": 9
+                          },
+                          {
+                          "categoryOptionCombo": "J2nTJY1kBOe",
+                          "dataElement": "SCavSTdLuxY",
+                          "row": 10,
+                          "column": 9
+                          }
+                  ]
+          }
+          
+          
+          
+          ,
+          
+          
+          "Clients Who Received Cotrimox Prophylaxis": {
+                  "dataValues":[
+                          {
+                          "categoryOptionCombo": "I3NCjLb4hSS",
+                          "dataElement": "XNCFUIQZMWP",
+                          "row": 1,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "iP2X0W9vnxw",
+                          "dataElement": "XNCFUIQZMWP",
+                          "row": 2,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "GP1NuAELSEp",
+                          "dataElement": "XNCFUIQZMWP",
+                          "row": 3,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "z12EITtQb34",
+                          "dataElement": "hzmim6AOgKv",
+                          "row": 4,
+                          "column": 2
+                          },
+                          
+                           {
+                          "categoryOptionCombo": "a7KiQfukOv5",
+                          "dataElement": "XNCFUIQZMWP",
+                          "row": 1,
+                          "column": 3
+                          },
+                          
+                          
+                           {
+                          "categoryOptionCombo": "azORoChO5GZ",
+                          "dataElement": "XNCFUIQZMWP",
+                          "row": 2,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "Z7LThsUODoq",
+                          "dataElement": "XNCFUIQZMWP",
+                          "row": 3,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "iEFWXqdhqg9",
+                          "dataElement": "hzmim6AOgKv",
+                          "row": 4,
+                          "column": 3
+                          },
+                  ]
+          }
+          ,
+          
+          
+          "Adult and Children on Nutritional Supplement": {
+                  "dataValues":[
+                          {
+                          "categoryOptionCombo": "gIRokZTOVff",
+                          "dataElement": "Z49zo2sYBI8",
+                          "row": 1,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "gIRokZTOVff",
+                          "dataElement": "XZDUQ4eARGM",
+                          "row": 2,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "gIRokZTOVff",
+                          "dataElement": "W0Iokwlb7Eb",
+                          "row": 3,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "gIRokZTOVff",
+                          "dataElement": "tQEb7MCgsZL",
+                          "row": 4,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "gIRokZTOVff",
+                          "dataElement": "zZ458qXHCeO",
+                          "row": 5,
+                          "column": 2
+                          },
+                           {
+                          "categoryOptionCombo": "WBH8uUpt9Pj",
+                          "dataElement": "Z49zo2sYBI8",
+                          "row": 1,
+                          "column": 3
+                          },
+                          
+                          
+                           {
+                          "categoryOptionCombo": "WBH8uUpt9Pj",
+                          "dataElement": "XZDUQ4eARGM",
+                          "row": 2,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "WBH8uUpt9Pj",
+                          "dataElement": "W0Iokwlb7Eb",
+                          "row": 3,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "WBH8uUpt9Pj",
+                          "dataElement": "tQEb7MCgsZL",
+                          "row": 4,
+                          "column": 3
+                          },
+                           {
+                          "categoryOptionCombo": "WBH8uUpt9Pj",
+                          "dataElement": "zZ458qXHCeO",
+                          "row": 5,
+                          "column": 3
+                          },
+                          
+                          
+                           {
+                          "categoryOptionCombo": "z12EITtQb34",
+                          "dataElement": "Z49zo2sYBI8",
+                          "row": 1,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "z12EITtQb34",
+                          "dataElement": "XZDUQ4eARGM",
+                          "row": 2,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "z12EITtQb34",
+                          "dataElement": "W0Iokwlb7Eb",
+                          "row": 3,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "z12EITtQb34",
+                          "dataElement": "tQEb7MCgsZL",
+                          "row": 4,
+                          "column": 4
+                          },
+                           {
+                          "categoryOptionCombo": "z12EITtQb34",
+                          "dataElement": "zZ458qXHCeO",
+                          "row": 5,
+                          "column": 4
+                          },
+                          
+                          
+                           {
+                          "categoryOptionCombo": "iEFWXqdhqg9",
+                          "dataElement": "Z49zo2sYBI8",
+                          "row": 1,
+                          "column": 5
+                          },
+                           {
+                          "categoryOptionCombo": "iEFWXqdhqg9",
+                          "dataElement": "XZDUQ4eARGM",
+                          "row": 2,
+                          "column": 5
+                          },
+                           {
+                          "categoryOptionCombo": "iEFWXqdhqg9",
+                          "dataElement": "W0Iokwlb7Eb",
+                          "row": 3,
+                          "column": 5
+                          },
+                           {
+                          "categoryOptionCombo": "iEFWXqdhqg9",
+                          "dataElement": "tQEb7MCgsZL",
+                          "row": 4,
+                          "column": 5
+                          },
+                           {
+                          "categoryOptionCombo": "iEFWXqdhqg9",
+                          "dataElement": "zZ458qXHCeO",
+                          "row": 5,
+                          "column": 5
+                          }
+                  ]
+          }
+        
+    }
+  }
